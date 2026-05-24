@@ -86,7 +86,7 @@ Built using **GPT-4o**, **LangChain / LangChain Classic**, **ChromaDB**, and **S
 
 | Landing Workspace | Cross-Referencing (Tests 1 & 2) | Document Math (Test 3) | Anti-Hallucination (Test 4) |
 |:---:|:---:|:---:|:---:|
-| ![Workspace](screenshots/1.png) | ![RAG & Web](screenshots/2.jpg) <br><br> ![Web Search](screenshots/3.jpg) | ![RAG Math](screenshots/4.jpg) | ![Guardrails](screenshots/5.jpg) |
+| ![Workspace](screenshots/1.png) | ![RAG & Web](screenshots/2.png) <br><br> ![Web Search](screenshots/3.png) | ![RAG Math](screenshots/4.png) | ![Guardrails](screenshots/5.png) |
 | *App workspace.* | *Dual-tool cross-referencing & web discovery.* | *Balance sheet extraction & runway math.* | *Zero-temperature system prompt defense.* |
 
 ---
