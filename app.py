@@ -4,7 +4,7 @@ Streamlit Interface Dashboard for MarketMind
 import os
 import streamlit as st
 from src.config import DATA_DIR
-from src.tools.rag_tool import initialize_vector_db
+from src.tools.rag_tool import initialize_vector_db, query_internal_financials
 from src.agent import initialize_agent_executor
 
 # 1. Page Setup
