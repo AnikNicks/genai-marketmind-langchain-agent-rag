@@ -1,4 +1,4 @@
-# 📈 Project: MarketMind — Autonomous ReAct Financial Analyst Agent
+# 📈 Project 3: MarketMind — Autonomous ReAct Financial Analyst Agent
 
 An advanced, production-grade autonomous agent designed to revolutionize corporate document intelligence and real-time market discovery. **MarketMind** orchestrates a dual-engine architecture: an **Advanced Retrieval-Augmented Generation (RAG)** pipeline to query private corporate financial statements, and a live web search interface running an autonomous **ReAct (Reasoning and Acting) loop** to capture breaking market developments.
 
