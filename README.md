@@ -9,7 +9,7 @@ Built using **GPT-4o**, **LangChain / LangChain Classic**, **ChromaDB**, and **S
 ## 📸 Screenshots
 
 ### Application Preview
-![MarketMind Dashboard](screenshots/1.png)
+![MarketMind Dashboard](screenshots/4.png)
 
 ---
 
@@ -77,15 +77,17 @@ Built using **GPT-4o**, **LangChain / LangChain Classic**, **ChromaDB**, and **S
                   |   Synthesized & Grounded Response   |
                   |     (Markdown / Financial Math)     |
                   +-------------------------------------+
-
+```
 ---
 
 ## 🖼️ Interface Matrix
 
-| App Interface | Multi-File Context Storage | Advanced Financial Cross-Referencing | Safety Edge Refusal |
-| --- | --- | --- | --- |
-|  |  |  |  |
-| *MarketMind landing workspace.* | *In-memory vector collection.* | *RAG math + web synthesis.* | *Strict anti-hallucination guardrails.* |
+## 🖼️ Interface Matrix
+
+| Landing Workspace | Cross-Referencing (Tests 1 & 2) | Document Math (Test 3) | Anti-Hallucination (Test 4) |
+|:---:|:---:|:---:|:---:|
+| ![Workspace](screenshots/1.png) | ![RAG & Web](screenshots/2.jpg) <br><br> ![Web Search](screenshots/3.jpg) | ![RAG Math](screenshots/4.jpg) | ![Guardrails](screenshots/5.jpg) |
+| *App workspace.* | *Dual-tool cross-referencing & web discovery.* | *Balance sheet extraction & runway math.* | *Zero-temperature system prompt defense.* |
 
 ---
 
@@ -97,7 +99,7 @@ Built using **GPT-4o**, **LangChain / LangChain Classic**, **ChromaDB**, and **S
 git clone [https://github.com/AnikNicks/marketmind-agentic-rag.git](https://github.com/AnikNicks/marketmind-agentic-rag.git)
 cd marketmind-agentic-rag
 
-```
+
 
 ### 2. Create and Activate a Virtual Environment
 
@@ -193,6 +195,4 @@ The workspace will immediately deploy on your local host: `http://localhost:8501
 * OpenAI GPT-4o Multimodal LLM Foundations
 * Streamlit Application Layout and Session State Ecosystem
 
-```
 
-```
